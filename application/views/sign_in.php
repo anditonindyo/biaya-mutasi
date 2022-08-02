@@ -18,7 +18,7 @@
         <!-- <form action="" method="post" autocomplete="off"> -->
         <?= form_open(); ?>
         <img class="mb-4" src="<?= base_url(); ?>assets/img/mutasi.png" alt="" width="72" height="72">
-        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <h1 class="h3 mb-3 font-weight-normal">Silahkan Masuk</h1>
         <div class="row">
             <div class="col">
                 <?php if ($this->session->flashdata('pesan')) : ?>
