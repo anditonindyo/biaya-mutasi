@@ -20,6 +20,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('pesawat/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('pesawat/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
