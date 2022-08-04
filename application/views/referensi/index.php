@@ -30,6 +30,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('bus_truk/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('bus_truk/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -39,6 +40,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('kapal/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('kapal/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -48,6 +50,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('rute/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('rute/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -57,6 +60,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('kubik/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('kubik/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -66,6 +70,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('jenis/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('jenis/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -75,6 +80,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('uang_harian/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('uang_harian/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -84,6 +90,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('provinsi/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('provinsi/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -93,6 +100,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('angkutan/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('angkutan/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -117,6 +125,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('packing/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('packing/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -126,6 +135,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('tarif_darat/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('tarif_darat/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -135,6 +145,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('dokumen/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('dokumen/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -144,6 +155,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('pejabat/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('pejabat/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -153,6 +165,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('proses/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('proses/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -162,6 +175,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('laporan/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('laporan/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
@@ -171,6 +185,7 @@
                             <td class="pb-0 pr-0">
                                 <div class="btn-group btn-group-sm" role="group">
                                     <a href="<?= base_url('pangkat/index'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Detail</a>
+                                    <a href="<?= base_url('pangkat/Excel'); ?>" class="btn btn-sm btn-outline-secondary pt-0 pb-0">Excel</a>
                                 </div>
                             </td>
                         </tr>
